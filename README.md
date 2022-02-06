@@ -2,4 +2,4 @@
 
 első bekezfdés
 
-az account js.kell
+az account js is kell
